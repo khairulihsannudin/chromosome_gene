@@ -1,0 +1,310 @@
+[
+    {
+        "chromosome": "chr1:26697277_A>C",
+        "gene": "ARID1A"
+    },
+    {
+        "chromosome": "chr1:26697283_A>C",
+        "gene": "ARID1A"
+    },
+    {
+        "chromosome": "chr1:26697287_T>G",
+        "gene": "ARID1A"
+    },
+    {
+        "chromosome": "chr1:44823158_C>A",
+        "gene": "PTCH2"
+    },
+    {
+        "chromosome": "chr2:47783492_A>C",
+        "gene": "MSH6"
+    },
+    {
+        "chromosome": "chr2:208248484_C>T",
+        "gene": "IDH1"
+    },
+    {
+        "chromosome": "chr2:241751311_G>A",
+        "gene": "D2HGDH"
+    },
+    {
+        "chromosome": "chr3:41233385_C>T",
+        "gene": "CTNNB1"
+    },
+    {
+        "chromosome": "chr4:1806276_G>T",
+        "gene": "FGFR3"
+    },
+    {
+        "chromosome": "chr4:1806280_->TC",
+        "gene": "FGFR3"
+    },
+    {
+        "chromosome": "chr4:1806290_G>T",
+        "gene": "FGFR3"
+    },
+    {
+        "chromosome": "chr4:1806299_G>T",
+        "gene": "FGFR3"
+    },
+    {
+        "chromosome": "chr4:1806305_G>T",
+        "gene": "FGFR3"
+    },
+    {
+        "chromosome": "chr4:3074932_A>C",
+        "gene": "HTT"
+    },
+    {
+        "chromosome": "chr4:3074937_->GCAGCAG",
+        "gene": "HTT"
+    },
+    {
+        "chromosome": "chr4:3074938_A>C",
+        "gene": "HTT"
+    },
+    {
+        "chromosome": "chr4:54261247_G>A",
+        "gene": "PDGFRA"
+    },
+    {
+        "chromosome": "chr5:113488342_T>C",
+        "gene": "MCC"
+    },
+    {
+        "chromosome": "chr6:36210271_G>A",
+        "gene": "BRPF3"
+    },
+    {
+        "chromosome": "chr6:36225279_T>G",
+        "gene": "BRPF3"
+    },
+    {
+        "chromosome": "chr6:156778662_G>C",
+        "gene": "ARID1B"
+    },
+    {
+        "chromosome": "chr6:156935479_A>G",
+        "gene": "ARID1B"
+    },
+    {
+        "chromosome": "chr7:116700208_A>G",
+        "gene": "MET"
+    },
+    {
+        "chromosome": "chr7:129210500_G>T",
+        "gene": "SMO"
+    },
+    {
+        "chromosome": "chr8:127738361_G>C",
+        "gene": "MYC"
+    },
+    {
+        "chromosome": "chr9:12775890_A>G",
+        "gene": "LURAP1L"
+    },
+    {
+        "chromosome": "chr9:84670946_G>T",
+        "gene": "NTRK2"
+    },
+    {
+        "chromosome": "chr9:84670949_C>A",
+        "gene": "NTRK2"
+    },
+    {
+        "chromosome": "chr9:95447312_G>A",
+        "gene": "PTCH1"
+    },
+    {
+        "chromosome": "chr9:107485788_G>C",
+        "gene": "KLF4"
+    },
+    {
+        "chromosome": "chr9:132925607_A>T",
+        "gene": "TSC1"
+    },
+    {
+        "chromosome": "chr9:136500601_C>T",
+        "gene": "NOTCH1"
+    },
+    {
+        "chromosome": "chr9:136501766_C>T",
+        "gene": "NOTCH1"
+    },
+    {
+        "chromosome": "chr10:121551331_C>T",
+        "gene": "FGFR2"
+    },
+    {
+        "chromosome": "chr11:63765899_A>C",
+        "gene": "ZFTA"
+    },
+    {
+        "chromosome": "chr12:49030394_T>G",
+        "gene": "KMT2D"
+    },
+    {
+        "chromosome": "chr12:49041187_T>G",
+        "gene": "KMT2D"
+    },
+    {
+        "chromosome": "chr12:49041403_T>G",
+        "gene": "KMT2D"
+    },
+    {
+        "chromosome": "chr12:49051202_T>A",
+        "gene": "KMT2D"
+    },
+    {
+        "chromosome": "chr12:49051215_C>A",
+        "gene": "KMT2D"
+    },
+    {
+        "chromosome": "chr12:50087406_C>T",
+        "gene": "SMARCD1"
+    },
+    {
+        "chromosome": "chr12:76031154_C>-",
+        "gene": "PHLDA1"
+    },
+    {
+        "chromosome": "chr12:76031156_GTTGC>-",
+        "gene": "PHLDA1"
+    },
+    {
+        "chromosome": "chr12:76031169_CT>-",
+        "gene": "PHLDA1"
+    },
+    {
+        "chromosome": "chr12:76031172_C>-",
+        "gene": "PHLDA1"
+    },
+    {
+        "chromosome": "chr12:111598993_C>-",
+        "gene": "ATXN2"
+    },
+    {
+        "chromosome": "chr12:111598995_GC>-",
+        "gene": "ATXN2"
+    },
+    {
+        "chromosome": "chr12:120994312_G>-",
+        "gene": "HNF1A"
+    },
+    {
+        "chromosome": "chr12:120994314_->C",
+        "gene": "HNF1A"
+    },
+    {
+        "chromosome": "chr13:32340099_C>T",
+        "gene": "BRCA2"
+    },
+    {
+        "chromosome": "chr13:48381415_G>A",
+        "gene": "RB1"
+    },
+    {
+        "chromosome": "chr14:95124419_G>A",
+        "gene": "DICER1"
+    },
+    {
+        "chromosome": "chr16:2060794_G>A",
+        "gene": "TSC2"
+    },
+    {
+        "chromosome": "chr16:2088242_C>T",
+        "gene": "TSC2"
+    },
+    {
+        "chromosome": "chr16:2088245_C>T",
+        "gene": "TSC2"
+    },
+    {
+        "chromosome": "chr16:2088246_A>G",
+        "gene": "TSC2"
+    },
+    {
+        "chromosome": "chr16:2088275_C>A",
+        "gene": "TSC2"
+    },
+    {
+        "chromosome": "chr16:3727896_T>G",
+        "gene": "CREBBP"
+    },
+    {
+        "chromosome": "chr16:3731397_A>C",
+        "gene": "CREBBP"
+    },
+    {
+        "chromosome": "chr16:3731400_A>T",
+        "gene": "CREBBP"
+    },
+    {
+        "chromosome": "chr16:3731400_A>C",
+        "gene": "CREBBP"
+    },
+    {
+        "chromosome": "chr16:3731406_T>G",
+        "gene": "CREBBP"
+    },
+    {
+        "chromosome": "chr16:3731412_T>G",
+        "gene": "CREBBP"
+    },
+    {
+        "chromosome": "chr16:85648684_->C",
+        "gene": "GSE1"
+    },
+    {
+        "chromosome": "chr16:85654386_A>C",
+        "gene": "GSE1"
+    },
+    {
+        "chromosome": "chr16:85654967_A>C",
+        "gene": "GSE1"
+    },
+    {
+        "chromosome": "chr16:85654979_A>C",
+        "gene": "GSE1"
+    },
+    {
+        "chromosome": "chr16:85654987_T>G",
+        "gene": "GSE1"
+    },
+    {
+        "chromosome": "chr17:7676154_G>C",
+        "gene": "TP53"
+    },
+    {
+        "chromosome": "chr17:31340628_C>T",
+        "gene": "NF1"
+    },
+    {
+        "chromosome": "chr17:60623728_G>A",
+        "gene": "PPM1D"
+    },
+    {
+        "chromosome": "chr19:10987692_A>C",
+        "gene": "SMARCA4"
+    },
+    {
+        "chromosome": "chr19:10996246_G>A",
+        "gene": "SMARCA4"
+    },
+    {
+        "chromosome": "chr19:15174335_G>A",
+        "gene": "NOTCH3"
+    },
+    {
+        "chromosome": "chr22:20995871_A>T",
+        "gene": "LZTR1"
+    },
+    {
+        "chromosome": "chrX:41344260_C>T",
+        "gene": "DDX3X"
+    },
+    {
+        "chromosome": "chrX:77508509_G>A",
+        "gene": "ATRX"
+    }
+]
