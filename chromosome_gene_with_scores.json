@@ -1,0 +1,387 @@
+[
+    {
+        "chromosome": "chr1:26697277_A>C",
+        "gene": "ARID1A",
+        "score": 0.6238
+    },
+    {
+        "chromosome": "chr1:26697283_A>C",
+        "gene": "ARID1A",
+        "score": 0.8129
+    },
+    {
+        "chromosome": "chr1:26697287_T>G",
+        "gene": "ARID1A",
+        "score": 0.9896
+    },
+    {
+        "chromosome": "chr1:44823158_C>A",
+        "gene": "PTCH2",
+        "score": 0.1004
+    },
+    {
+        "chromosome": "chr2:47783492_A>C",
+        "gene": "MSH6",
+        "score": 0.3295
+    },
+    {
+        "chromosome": "chr2:208248484_C>T",
+        "gene": "IDH1",
+        "score": 0.9805
+    },
+    {
+        "chromosome": "chr2:241751311_G>A",
+        "gene": "D2HGDH",
+        "score": 0.0734
+    },
+    {
+        "chromosome": "chr3:41233385_C>T",
+        "gene": "CTNNB1",
+        "score": 0.9984
+    },
+    {
+        "chromosome": "chr4:1806276_G>T",
+        "gene": "FGFR3",
+        "score": 0.9983
+    },
+    {
+        "chromosome": "chr4:1806280_->TC",
+        "gene": "FGFR3",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr4:1806290_G>T",
+        "gene": "FGFR3",
+        "score": 0.6584
+    },
+    {
+        "chromosome": "chr4:1806299_G>T",
+        "gene": "FGFR3",
+        "score": 0.9809
+    },
+    {
+        "chromosome": "chr4:1806305_G>T",
+        "gene": "FGFR3",
+        "score": 0.5121
+    },
+    {
+        "chromosome": "chr4:3074932_A>C",
+        "gene": "HTT",
+        "score": 0.0772
+    },
+    {
+        "chromosome": "chr4:3074937_->GCAGCAG",
+        "gene": "HTT",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr4:3074938_A>C",
+        "gene": "HTT",
+        "score": 0.0616
+    },
+    {
+        "chromosome": "chr4:54261247_G>A",
+        "gene": "PDGFRA",
+        "score": 0.0592
+    },
+    {
+        "chromosome": "chr5:113488342_T>C",
+        "gene": "MCC",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr6:36210271_G>A",
+        "gene": "BRPF3",
+        "score": 0.0618
+    },
+    {
+        "chromosome": "chr6:36225279_T>G",
+        "gene": "BRPF3",
+        "score": 0.1707
+    },
+    {
+        "chromosome": "chr6:156778662_G>C",
+        "gene": "ARID1B",
+        "score": 0.488
+    },
+    {
+        "chromosome": "chr6:156935479_A>G",
+        "gene": "ARID1B",
+        "score": 0.8033
+    },
+    {
+        "chromosome": "chr7:116700208_A>G",
+        "gene": "MET",
+        "score": 0.0759
+    },
+    {
+        "chromosome": "chr7:129210500_G>T",
+        "gene": "SMO",
+        "score": 0.9897
+    },
+    {
+        "chromosome": "chr8:127738361_G>C",
+        "gene": "MYC",
+        "score": 0.0717
+    },
+    {
+        "chromosome": "chr9:12775890_A>G",
+        "gene": "LURAP1L",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr9:84670946_G>T",
+        "gene": "NTRK2",
+        "score": 0.1145
+    },
+    {
+        "chromosome": "chr9:84670949_C>A",
+        "gene": "NTRK2",
+        "score": 0.2028
+    },
+    {
+        "chromosome": "chr9:95447312_G>A",
+        "gene": "PTCH1",
+        "score": 0.1274
+    },
+    {
+        "chromosome": "chr9:107485788_G>C",
+        "gene": "KLF4",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr9:132925607_A>T",
+        "gene": "TSC1",
+        "score": 0.1309
+    },
+    {
+        "chromosome": "chr9:136500601_C>T",
+        "gene": "NOTCH1",
+        "score": 0.2977
+    },
+    {
+        "chromosome": "chr9:136501766_C>T",
+        "gene": "NOTCH1",
+        "score": 0.1126
+    },
+    {
+        "chromosome": "chr10:121551331_C>T",
+        "gene": "FGFR2",
+        "score": 0.4708
+    },
+    {
+        "chromosome": "chr11:63765899_A>C",
+        "gene": "ZFTA",
+        "score": 0.1217
+    },
+    {
+        "chromosome": "chr12:49030394_T>G",
+        "gene": "KMT2D",
+        "score": 0.7303
+    },
+    {
+        "chromosome": "chr12:49041187_T>G",
+        "gene": "KMT2D",
+        "score": 0.0733
+    },
+    {
+        "chromosome": "chr12:49041403_T>G",
+        "gene": "KMT2D",
+        "score": 0.0825
+    },
+    {
+        "chromosome": "chr12:49051202_T>A",
+        "gene": "KMT2D",
+        "score": 0.1094
+    },
+    {
+        "chromosome": "chr12:49051215_C>A",
+        "gene": "KMT2D",
+        "score": 0.0749
+    },
+    {
+        "chromosome": "chr12:50087406_C>T",
+        "gene": "SMARCD1",
+        "score": 0.3929
+    },
+    {
+        "chromosome": "chr12:76031154_C>-",
+        "gene": "PHLDA1",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr12:76031156_GTTGC>-",
+        "gene": "PHLDA1",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr12:76031169_CT>-",
+        "gene": "PHLDA1",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr12:76031172_C>-",
+        "gene": "PHLDA1",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr12:111598993_C>-",
+        "gene": "ATXN2",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr12:111598995_GC>-",
+        "gene": "ATXN2",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr12:120994312_G>-",
+        "gene": "HNF1A",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr12:120994314_->C",
+        "gene": "HNF1A",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr13:32340099_C>T",
+        "gene": "BRCA2",
+        "score": 0.0626
+    },
+    {
+        "chromosome": "chr13:48381415_G>A",
+        "gene": "RB1",
+        "score": 0.0768
+    },
+    {
+        "chromosome": "chr14:95124419_G>A",
+        "gene": "DICER1",
+        "score": 0.1116
+    },
+    {
+        "chromosome": "chr16:2060794_G>A",
+        "gene": "TSC2",
+        "score": 0.0794
+    },
+    {
+        "chromosome": "chr16:2088242_C>T",
+        "gene": "TSC2",
+        "score": 0.2458
+    },
+    {
+        "chromosome": "chr16:2088245_C>T",
+        "gene": "TSC2",
+        "score": 0.1754
+    },
+    {
+        "chromosome": "chr16:2088246_A>G",
+        "gene": "TSC2",
+        "score": 0.2942
+    },
+    {
+        "chromosome": "chr16:2088275_C>A",
+        "gene": "TSC2",
+        "score": 0.5777
+    },
+    {
+        "chromosome": "chr16:3727896_T>G",
+        "gene": "CREBBP",
+        "score": 0.3997
+    },
+    {
+        "chromosome": "chr16:3731397_A>C",
+        "gene": "CREBBP",
+        "score": 0.9313
+    },
+    {
+        "chromosome": "chr16:3731400_A>T",
+        "gene": "CREBBP",
+        "score": 0.3438
+    },
+    {
+        "chromosome": "chr16:3731400_A>C",
+        "gene": "CREBBP",
+        "score": 0.7221
+    },
+    {
+        "chromosome": "chr16:3731406_T>G",
+        "gene": "CREBBP",
+        "score": 0.9885
+    },
+    {
+        "chromosome": "chr16:3731412_T>G",
+        "gene": "CREBBP",
+        "score": 0.9674
+    },
+    {
+        "chromosome": "chr16:85648684_->C",
+        "gene": "GSE1",
+        "score": 0.5
+    },
+    {
+        "chromosome": "chr16:85654386_A>C",
+        "gene": "GSE1",
+        "score": 0.0833
+    },
+    {
+        "chromosome": "chr16:85654967_A>C",
+        "gene": "GSE1",
+        "score": 0.1164
+    },
+    {
+        "chromosome": "chr16:85654979_A>C",
+        "gene": "GSE1",
+        "score": 0.1444
+    },
+    {
+        "chromosome": "chr16:85654987_T>G",
+        "gene": "GSE1",
+        "score": 0.6177
+    },
+    {
+        "chromosome": "chr17:7676154_G>C",
+        "gene": "TP53",
+        "score": 0.0724
+    },
+    {
+        "chromosome": "chr17:31340628_C>T",
+        "gene": "NF1",
+        "score": 0.1112
+    },
+    {
+        "chromosome": "chr17:60623728_G>A",
+        "gene": "PPM1D",
+        "score": 0.9929
+    },
+    {
+        "chromosome": "chr19:10987692_A>C",
+        "gene": "SMARCA4",
+        "score": 0.077
+    },
+    {
+        "chromosome": "chr19:10996246_G>A",
+        "gene": "SMARCA4",
+        "score": 0.9896
+    },
+    {
+        "chromosome": "chr19:15174335_G>A",
+        "gene": "NOTCH3",
+        "score": 0.1792
+    },
+    {
+        "chromosome": "chr22:20995871_A>T",
+        "gene": "LZTR1",
+        "score": 0.4107
+    },
+    {
+        "chromosome": "chrX:41344260_C>T",
+        "gene": "DDX3X",
+        "score": 0.5753
+    },
+    {
+        "chromosome": "chrX:77508509_G>A",
+        "gene": "ATRX",
+        "score": 0.273
+    }
+]
